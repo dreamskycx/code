@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://deramskycx.github.io/code/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://deramskycx.github.io/code/link/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://deramskycx.github.io/code/contest/codeforces/CF929Div3/</loc>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://deramskycx.github.io/code/school/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://deramskycx.github.io/code/school/howtocheck/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://deramskycx.github.io/code/school/xdoj/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://deramskycx.github.io/code/school/src/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2024-02-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
